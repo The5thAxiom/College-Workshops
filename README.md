@@ -5,4 +5,4 @@ A repo for all workshops done during college.
 | ------ | ---- | -------- | -------------- | ------- |
 |1|1st|2nd|Dynamic Web Design||
 |2|1st|2nd|API Development||
-|3|2nd|3rd|Build Your Own Virtual Assistant||
+|3|2nd|3rd|Build Your Own Virtual Assistant|20211009|
